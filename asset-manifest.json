@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SSR-react/static/css/main.21999bcf.css",
-    "main.js": "/SSR-react/static/js/main.5224d290.js",
+    "main.js": "/SSR-react/static/js/main.f0ae3905.js",
     "static/js/787.de26d072.chunk.js": "/SSR-react/static/js/787.de26d072.chunk.js",
     "index.html": "/SSR-react/index.html",
     "main.21999bcf.css.map": "/SSR-react/static/css/main.21999bcf.css.map",
-    "main.5224d290.js.map": "/SSR-react/static/js/main.5224d290.js.map",
+    "main.f0ae3905.js.map": "/SSR-react/static/js/main.f0ae3905.js.map",
     "787.de26d072.chunk.js.map": "/SSR-react/static/js/787.de26d072.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21999bcf.css",
-    "static/js/main.5224d290.js"
+    "static/js/main.f0ae3905.js"
   ]
 }
