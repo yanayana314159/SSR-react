@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  .imp {
+    font-size: larger;
+  }
+}
+
+header {
+  background-color: #282c34;
+  font-size: calc(20px + 2vmin);
+  color: white;
+}
+
+table {
+  width: 80%;
+  border-collapse: collapse;
+  thead th,
+  thead td {
+    font-size: larger;
+  }
+  tr {
+    border-bottom: solid 2px white;
+  }
+
+  th {
+    position: relative;
+    text-align: center;
+    width: 15%;
+    background-color: #52c2d0;
+    color: white;
+    text-align: left;
+    padding: 10px 0;
+    padding-left: 2%;
+  }
+  th:after {
+    display: block;
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    top: calc(50% - 10px);
+    right: -10px;
+    border-left: 10px solid #52c2d0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+  }
+  td {
+    text-align: left;
+    width: 70%;
+    padding-left: 5%;
+    background-color: #eee;
+  }
+}
+
+.hobby {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; /* ここでflex-wrapをwrapに設定 */
+  justify-content: center;
+  .hobby-child {
+    font-size: large;
+    margin: 10px;
+    border-color: #282c34;
+  }
+}
