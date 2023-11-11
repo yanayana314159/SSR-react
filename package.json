@@ -1,5 +1,5 @@
 {
-  "homepage": "http://yanayana314159.github.io/SSR-react",
+  "homepage": "https://yanayana314159.github.io/SSR-react/",
   "name": "ssr_practice",
   "version": "0.1.0",
   "main": "server.ts",
@@ -29,7 +29,7 @@
     "eject": "react-scripts eject",
     "nodemon": "nodemon server.ts",
     "deploy": "gh-pages -d build",
-    "predeploy": “npm run build”,
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": [
