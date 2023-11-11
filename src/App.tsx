@@ -71,7 +71,7 @@ function App() {
             <a className="imp">スイーツ</a>
             <br />
             <img
-              src="images/パフェ.jpg"
+              src="images/parfait.jpg"
               alt="パフェの画像です"
               width="300px"
             ></img>
@@ -80,7 +80,7 @@ function App() {
             <a className="imp">アニメ</a>
             <br />
             <img
-              src="images/アニメ.jpg"
+              src="images/anime.jpg"
               alt="ナナチとの2ショットです"
               width="300px"
             ></img>
@@ -89,7 +89,7 @@ function App() {
             <a className="imp">スキー</a>
             <br />
             <img
-              src="images/ski flag.jpg"
+              src="images/ski.jpg"
               alt="スキー部の写真です"
               width="300px"
             ></img>
